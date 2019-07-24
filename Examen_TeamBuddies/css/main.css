@@ -1,0 +1,24 @@
+*{
+    font-family: Arial;
+    
+}
+
+header{
+    color: blue;
+    background: gray
+}
+nav a{
+    color: darkorange
+}
+section{
+    background: green
+
+}
+article
+{
+    color: blue
+}
+footer{
+    background: purple;
+    color: yellow;
+}
